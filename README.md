@@ -12,15 +12,15 @@ I'm Buse Nur, a JR. Software Developer 🚀🚀. I am also student. Learning abo
 
 
 
-  <img align="right" alt="GIF" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="200" height="200" />
+    <img align="right" alt="GIF" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif" width="300" height="200" />
   <br>
  
   
 **Talking about Personal Stuffs:**
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I’m currently working JS and trying to learn new things :wink:;
--  <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" /> I’m currently learning and contributing to everything web3; 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Ask me about anything, I am happy to help;
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I know HTML, CSS, Bootstrap and C#
+-  <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" />  Im learning JS and trying to improve myself.
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Connect with me!!
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> My twitter is [@busenurcetin16](https://twitter.com/busenurcetin16)
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /> My discord is [Yooo, Tomris!](https://discord.com/users/TomrisB.#6997)
 

@@ -11,8 +11,7 @@ I'm Buse Nur, a JR. Software Developer 🚀🚀. I am also student. Learning abo
 <br/>
 
 
-
-    <img align="right" alt="GIF" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif" width="300" height="200" />
+ <img align="right" alt="GIF" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif" width="300" height="200" />
   <br>
  
   

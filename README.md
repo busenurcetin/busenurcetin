@@ -46,7 +46,7 @@ I'm Buse Nur, a JR. Software Developer 🚀🚀. I am also student. Learning abo
 
 <details>
   <summary>
-    More about me
+    More About Me
   </summary>
 
  <h2> Github Stats </h2> 

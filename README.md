@@ -59,6 +59,10 @@ I'm Buse Nur, a JR. Software Developer 🚀🚀. I am also student. Learning abo
 <div id="github_stats" align="center">
 
 [![Busenur Çetin's GitHub stats](https://github-readme-stats.vercel.app/api?username=busenurcetin&count_private=true&show_icons=true&theme=radical&hide_border=true)](#!)
+ 
+ <br>
+ 
+ <br>
 
 [![Busenur Çetin's github activity graph](https://github-activity-graph-oopa.herokuapp.com/graph?username=usenurcetin&theme=redical&hide_border=true)](#!)
 

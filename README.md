@@ -39,7 +39,10 @@ I'm Buse Nur, a JR. Software Developer 🚀🚀. I am also student. Learning abo
 <br>
 </br>
 
-
+<details>
+  <summary>
+    More about me
+  </summary>
 
  <h2> Github Stats </h2> 
 <a href="https://github.com/busenurcetin/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=busenurcetin&layout=compact&theme=tokyonight" /></a>
@@ -66,7 +69,7 @@ I'm Buse Nur, a JR. Software Developer 🚀🚀. I am also student. Learning abo
   <a href="https://www.linkedin.com/in/busenurcetin/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
 </p>
-
+</details>
 
 
 

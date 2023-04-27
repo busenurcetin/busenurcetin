@@ -2,10 +2,6 @@
 
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 1000px padding: 100px" />
 
-
- <img align="right" alt="GIF" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif" width="300" height="200" />
-  <br>
-
 <br />
 <br />
 <h2>

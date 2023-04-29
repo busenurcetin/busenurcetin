@@ -1,8 +1,5 @@
 # Welcome To My GitHub Profile !
-
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 1000px padding: 100px" />
-
-<br />
+![bannerb](https://user-images.githubusercontent.com/110244548/235280916-d8812315-15b6-4167-9ca7-4b77e900cb4b.png)
 <br />
 <h2>
 I'm Buse Nur, a JR. Software Developer 🚀🚀. I am also student. Learning about JS currently.

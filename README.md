@@ -8,7 +8,7 @@ I'm Buse Nur, a JR. Software Developer 🚀🚀. I am also student. Learning abo
 <br/>
  
   
-**Talking about Personal Stuffs:**
+**Talking About Personal Stuffs:**
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I know HTML, CSS, Bootstrap and C#
 -  <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" />  Im learning JS and trying to improve myself.

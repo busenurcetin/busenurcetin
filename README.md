@@ -2,7 +2,7 @@
 ![bannerb](https://user-images.githubusercontent.com/110244548/235280916-d8812315-15b6-4167-9ca7-4b77e900cb4b.png)
 <br />
 <h2>
-I'm Buse Nur, a JR. Software Developer 🚀🚀. I am also student. Learning about JS currently.
+I'm Buse Nur, a JR. Software Developer 🚀🚀 I am also content creator, I write technical articles.
 </h2>
 <br/>
 <br/>
